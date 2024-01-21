@@ -2,7 +2,7 @@ body {
   background-color: white;
 }
 .card {
-  margin: 70px 520px;
+  margin: 70px 580px;
   height: 590px;
   width: 380px;
   background-color: white;
@@ -22,6 +22,7 @@ body {
   margin-left: 20px;
   margin-right: 15px;
   font-size: 14px;
+  font-weight: 400;
 }
 .perfect {
   margin-left: 20px;
@@ -43,7 +44,10 @@ body {
   border: none;
   color: white;
   cursor: pointer;
+  font-weight: bold;
+ 
 }
+
 .hrt {
   background-color: aliceblue;
   padding: 7px;
@@ -51,4 +55,16 @@ body {
   margin-left: 10px;
   cursor: pointer;
   border-radius: 5px;
+}
+.test{
+  margin-right: 20px;     
+  font-size: 12px;
+  background-color:rgb(172, 200, 236);
+  color: rgb(38, 132, 221);
+  padding-left: 10p;
+  padding-right: 10px;
+  border-radius: 12px;
+  font-weight: bold;
+  padding-top:3px;
+  padding-bottom:3px;
 }
