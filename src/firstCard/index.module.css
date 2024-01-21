@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+}
+.card {
+  margin: 70px 520px;
+  height: 590px;
+  width: 380px;
+  background-color: white;
+  border-radius: 22px;
+  border: 1px solid rgb(219, 214, 214);
+}
+.img {
+  width: 380px;
+  height: 200px;
+}
+.heading {
+  margin-left: 20px;
+  font-size: 20px;
+  font-family: "sans-serif";
+}
+.description {
+  margin-left: 20px;
+  margin-right: 15px;
+  font-size: 14px;
+}
+.perfect {
+  margin-left: 20px;
+  color: grey;
+  font-size: 12px;
+  font-weight: bold;
+}
+.footer {
+  margin-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.btn {
+  margin: 10px 20px;
+  background-color: rgb(14, 104, 179);
+  padding: 10px 100px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+.hrt {
+  background-color: aliceblue;
+  padding: 7px;
+  border: 1px solid rgb(201, 197, 197);
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
