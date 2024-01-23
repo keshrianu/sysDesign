@@ -1,0 +1,53 @@
+body{
+    background-color: beige;
+}
+.container{
+    margin: 70px 580px;
+    height: 420px;
+    width: 450px;
+    background-color: white;
+    border-radius: 22px 22px 0px 0px;
+    border: 1px solid rgb(219, 214, 214);
+}
+.img{
+    width:450px;
+    height: 170px;
+}
+.heading{
+    margin-left: 20px;
+    
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.completed{
+    margin-right: -100px;
+    color: grey;
+    font-weight: 500;
+}
+.progress_bar {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+    background: 
+      radial-gradient(closest-side, white 79%, transparent 60% 100%),
+      conic-gradient(rgb(98, 173, 216) 75%, rgb(231, 227, 228) 0);    
+      margin-right: 30px;
+      margin-top: 23px;
+  }
+  .description{
+    margin: 0px 14px;
+    color: rgb(146, 137, 137);
+    font-size: 17px;
+    font-weight: 400;
+  }
+  .footer{
+    display: flex;
+    justify-content: space-between;
+  }
+  .score{
+    display: flex;
+    justify-content: space-between;
+  }
