@@ -1,0 +1,25 @@
+.nav{
+    width: 1470px;
+    height:60px;
+    border: 1px solid rgb(206, 199, 199);
+    margin:14px;
+  display: flex;
+  justify-content:space-between;
+  
+   
+}
+h2{
+    margin-left: 10px;
+}
+p{
+    color:rgb(94, 92, 92);
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    padding:5px;
+    
+}
+p:hover {
+    background-color: #dae3f8;
+    
+}
